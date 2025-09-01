@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Banner Image"/>
+  <img src="new_header.png" alt="Banner Image"/>
 </div>
 
 ## @samiv 👋🏾
