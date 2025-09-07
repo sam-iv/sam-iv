@@ -2,7 +2,7 @@
   <img src="new_header.png" alt="Banner Image"/>
 </div>
 
-## @samiv 👋🏾
+## @sam-iv 👋🏾
 
 I'm a recent Computer Science graduate - learning and building projects with **C**, **C++**, and **Java**.
 
